@@ -5,13 +5,13 @@ I'm Arnaud, a Software Engineer working [@Shotgun](https://shotgun.live).
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4,928 hrs 6 mins
+Total Time: 4,935 hrs 48 mins
 
-TypeScript        4,027 hrs 16 mins████████████████████▒░░░░   81.72 %
-JSON              251 hrs 28 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-JavaScript        241 hrs 16 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Other             83 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-YAML              62 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TypeScript        4,031 hrs 47 mins████████████████████▒░░░░   81.68 %
+JSON              252 hrs 55 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JavaScript        241 hrs 30 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Other             83 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+YAML              62 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
