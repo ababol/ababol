@@ -1,6 +1,6 @@
 # 👋
 
-I'm Arnaud, a Software Engineer working [@Shotgun](https://shotgun.live).
+I'm Arnaud, a Software Engineer working [@ElevenLabs](https://elevenlabs.io/).
 
 <!--START_SECTION:waka-->
 
