@@ -5,13 +5,13 @@ I'm Arnaud, a Software Engineer working [@ElevenLabs](https://elevenlabs.io/).
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6,302 hrs 24 mins
+Total Time: 6,314 hrs 57 mins
 
-TypeScript        4,819 hrs 21 mins     ███████████████████░░░░░░   76.47 %
-JSON              304 hrs 46 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-JavaScript        292 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Markdown          249 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Other             174 hrs 28 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript        4,822 hrs 26 mins     ███████████████████░░░░░░   76.37 %
+JSON              304 hrs 58 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JavaScript        292 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Markdown          254 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Other             177 hrs 28 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
